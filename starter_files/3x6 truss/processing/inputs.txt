@@ -1,0 +1,16 @@
+Inputs,Values
+min_removal,1
+max_removal,10
+current_removal,1
+current_iteration,0
+triggered_removal,0
+mechanism_check_mode,False
+localSearch,False
+reset,False
+initialized,True
+sizing_continuity,False
+fixity_continuity,False
+dimension,2
+sizing_iterations,0
+sizing_feasible,True
+first_time_convergence,True
